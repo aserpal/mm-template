@@ -14,3 +14,5 @@ Para descargar localmente la página web, simplemente descarga el código del pr
 
 Te harán falta los [requisitos de tener instalado ruby y ciertas librerías de jekyll](https://jekyllrb.com/docs/)
 Si existe algún problema con ciertas librerías, realice lo siguiente: `sudo apt-get install ruby-full build-essential`
+
+Para los iconos, se deben usar los de: https://fontawesome.com/v5/search
